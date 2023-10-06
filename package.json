@@ -1,0 +1,21 @@
+{
+  "name": "bitfinex-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/servers/server.js",
+  "dependencies": {
+    "grenache-grape": "^0.9.12",
+    "grenache-nodejs-http": "^0.7.13",
+    "grenache-nodejs-link": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "grapes": "node src/servers/grapes.js",
+    "server1": "node src/servers/server.js",
+    "server2": "node src/servers/server2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
