@@ -1,0 +1,1 @@
+exports.TCOINT_USD = 'TCOINT_USD'
