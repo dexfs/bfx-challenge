@@ -2,6 +2,10 @@
 
 
 
+https://github.com/dexfs/bfx-challenge/assets/745268/015bd4f9-0ff6-42a7-9d8d-11f903a78f0a
+
+
+
 ## install dependencies
 
 ```bash
@@ -20,8 +24,8 @@ $ npm run server1
 $ npm run server2
 ```
 
-## How run the clients
-> must be execute in separate terminal instance
+## How to run the clients
+> must be executed in separate terminal instance
 
 ```bash
 // client1
