@@ -24,9 +24,10 @@ $ npm run server2
 > must be execute in separate terminal instance
 
 ```bash
-$ node ./src/clients/client1.js
+// client1
+$ npm run client1
 // client 2
-$ nopde ./src/clients/client2.js
+$ npm run client2
 ```
 
 ## Tasks 

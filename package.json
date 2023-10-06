@@ -13,6 +13,8 @@
     "grapes": "node src/servers/grapes.js",
     "server1": "node src/servers/server.js",
     "server2": "node src/servers/server2.js",
+    "client1": "node src/clients/client1.js",
+    "client2": "node src/clients/client2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
